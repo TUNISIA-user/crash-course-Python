@@ -33,8 +33,5 @@ You can assign multiple variables in one line, which can be useful but should be
 x, y, z = 10, 20, 30
 
 6. Unpacking
-Unpacking is a powerful feature where you can assign values from a list or tuple directly to variables.
- 
- 
- 
+Unpacking is a powerful feature where you can assign values from a list or tuple directly to variables.......: )
 
