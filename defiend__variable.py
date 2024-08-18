@@ -2,11 +2,11 @@
 1) Basic Variable Definition
 
 In Python, variables are defined by simply assigning a value using the = operator. The variable name should be descriptive and follow naming conventions.
-
+  
 name = "Gaith"
 age = 19
 is_student = True
-
+     
 2. Naming Conventions
 Snake_case: Variable names should be in lowercase, with words separated by underscores.
 Avoid Reserved Words: Don’t use Python’s reserved words as variable names (e.g., def, class, for).
