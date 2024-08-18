@@ -34,11 +34,7 @@ x, y, z = 10, 20, 30
 
 6. Unpacking
 Unpacking is a powerful feature where you can assign values from a list or tuple directly to variables.
-
-python
-
-coordinates = (10, 20)
-x, y = coordinates
-
+ 
+ 
  
 
